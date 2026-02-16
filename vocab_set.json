@@ -1,2331 +1,2188 @@
 [
   {
     "word": "求める",
-    "reading_hiragana": "もとめる",
+    "reading": "もとめる",
+    "meaning": "to seek; to request",
     "type": "verb",
-    "english": "to seek; to request",
-    "onyomi_hiragana": "きゅう",
-    "kunyomi_hiragana": "もと(める)",
+    "category": "single-kanji",
     "kanji": [
       "求"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "一般に",
-    "reading_hiragana": "いっぱんに",
+    "reading": "いっぱんに",
+    "meaning": "generally; in general",
     "type": "adverb",
-    "english": "generally; in general",
-    "onyomi_hiragana": "いち、いつ、はん",
-    "kunyomi_hiragana": "ひと(つ)、ひと",
+    "category": "compound",
     "kanji": [
       "一",
       "般"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "実は",
-    "reading_hiragana": "じつは",
+    "reading": "じつは",
+    "meaning": "actually; the truth is",
     "type": "adverb",
-    "english": "actually; the truth is",
-    "onyomi_hiragana": "じつ",
-    "kunyomi_hiragana": "み",
+    "category": "single-kanji",
     "kanji": [
       "実"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "程度",
-    "reading_hiragana": "ていど",
+    "reading": "ていど",
+    "meaning": "degree; extent; level",
     "type": "noun",
-    "english": "degree; extent; level",
-    "onyomi_hiragana": "てい、ど、たく",
-    "kunyomi_hiragana": "ほど、たび",
+    "category": "compound",
     "kanji": [
       "程",
       "度"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "止める",
-    "reading_hiragana": "とめる",
+    "reading": "とめる",
+    "meaning": "to stop; to halt; to turn off",
     "type": "verb",
-    "english": "to stop; to halt; to turn off",
-    "onyomi_hiragana": "し",
-    "kunyomi_hiragana": "と(まる)、と(める)",
+    "category": "single-kanji",
     "kanji": [
       "止"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "位置",
-    "reading_hiragana": "いち",
+    "reading": "いち",
+    "meaning": "position; location",
     "type": "noun",
-    "english": "position; location",
-    "onyomi_hiragana": "い、ち",
-    "kunyomi_hiragana": "くらい、お(く)",
+    "category": "compound",
     "kanji": [
       "位",
       "置"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "黙る",
-    "reading_hiragana": "だまる",
+    "reading": "だまる",
+    "meaning": "to be silent",
     "type": "verb",
-    "english": "to be silent",
-    "onyomi_hiragana": "もく、ぼく",
-    "kunyomi_hiragana": "だま(る)",
+    "category": "single-kanji",
     "kanji": [
       "黙"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "必ず",
-    "reading_hiragana": "かならず",
+    "reading": "かならず",
+    "meaning": "certainly; 반드시; always",
     "type": "adverb",
-    "english": "certainly; 반드시; always",
-    "onyomi_hiragana": "ひつ",
-    "kunyomi_hiragana": "かなら(ず)",
+    "category": "single-kanji",
     "kanji": [
       "必"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "離れる",
-    "reading_hiragana": "はなれる",
+    "reading": "はなれる",
+    "meaning": "to separate; to leave",
     "type": "verb",
-    "english": "to separate; to leave",
-    "onyomi_hiragana": "り",
-    "kunyomi_hiragana": "はな(れる)、はな(す)",
+    "category": "single-kanji",
     "kanji": [
       "離"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "撫でる",
-    "reading_hiragana": "なでる",
+    "reading": "なでる",
+    "meaning": "to stroke; to pet",
     "type": "verb",
-    "english": "to stroke; to pet",
-    "onyomi_hiragana": "ぶ",
-    "kunyomi_hiragana": "な(でる)",
+    "category": "single-kanji",
     "kanji": [
       "撫"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "驚く",
-    "reading_hiragana": "おどろく",
+    "reading": "おどろく",
+    "meaning": "to be surprised",
     "type": "verb",
-    "english": "to be surprised",
-    "onyomi_hiragana": "きょう",
-    "kunyomi_hiragana": "おどろ(く)",
+    "category": "single-kanji",
     "kanji": [
       "驚"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "当てる",
-    "reading_hiragana": "あてる",
+    "reading": "あてる",
+    "meaning": "to hit; to apply; to guess",
     "type": "verb",
-    "english": "to hit; to apply; to guess",
-    "onyomi_hiragana": "とう",
-    "kunyomi_hiragana": "あ(たる)、あ(てる)",
+    "category": "single-kanji",
     "kanji": [
       "当"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "首",
-    "reading_hiragana": "くび",
+    "reading": "くび",
+    "meaning": "neck",
     "type": "noun",
-    "english": "neck",
-    "onyomi_hiragana": "しゅ",
-    "kunyomi_hiragana": "くび",
+    "category": "single-kanji",
     "kanji": [
       "首"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "相手",
-    "reading_hiragana": "あいて",
+    "reading": "あいて",
+    "meaning": "partner; opponent",
     "type": "noun",
-    "english": "partner; opponent",
-    "onyomi_hiragana": "そう、しょう、しゅ",
-    "kunyomi_hiragana": "あい、て、た",
+    "category": "compound",
     "kanji": [
       "相",
       "手"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "考え",
-    "reading_hiragana": "かんがえ",
+    "reading": "かんがえ",
+    "meaning": "thought; idea",
     "type": "noun",
-    "english": "thought; idea",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "かんが(える)",
+    "category": "single-kanji",
     "kanji": [
       "考"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "知れる",
-    "reading_hiragana": "しれる",
+    "reading": "しれる",
+    "meaning": "to become known; to be found out",
     "type": "verb",
-    "english": "to become known; to be found out",
-    "onyomi_hiragana": "ち",
-    "kunyomi_hiragana": "し(る)",
+    "category": "single-kanji",
     "kanji": [
       "知"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "振る",
-    "reading_hiragana": "ふる",
+    "reading": "ふる",
+    "meaning": "to wave; to shake",
     "type": "verb",
-    "english": "to wave; to shake",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "ふ(る)",
+    "category": "single-kanji",
     "kanji": [
       "振"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "動く",
-    "reading_hiragana": "うごく",
+    "reading": "うごく",
+    "meaning": "to move",
     "type": "verb",
-    "english": "to move",
-    "onyomi_hiragana": "どう",
-    "kunyomi_hiragana": "うご(く)、うご(かす)",
+    "category": "single-kanji",
     "kanji": [
       "動"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "主人",
-    "reading_hiragana": "しゅじん",
+    "reading": "しゅじん",
+    "meaning": "husband; master",
     "type": "noun",
-    "english": "husband; master",
-    "onyomi_hiragana": "しゅ、す、じん、にん",
-    "kunyomi_hiragana": "ぬし、ひと",
+    "category": "compound",
     "kanji": [
       "主",
       "人"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "貼る",
-    "reading_hiragana": "はる",
+    "reading": "はる",
+    "meaning": "to stick; to paste",
     "type": "verb",
-    "english": "to stick; to paste",
-    "onyomi_hiragana": "ちょう",
-    "kunyomi_hiragana": "は(る)",
+    "category": "single-kanji",
     "kanji": [
       "貼"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "形",
-    "reading_hiragana": "かたち",
+    "reading": "かたち",
+    "meaning": "shape; form",
     "type": "noun",
-    "english": "shape; form",
-    "onyomi_hiragana": "けい、ぎょう",
-    "kunyomi_hiragana": "かたち",
+    "category": "single-kanji",
     "kanji": [
       "形"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "当たる",
-    "reading_hiragana": "あたる",
+    "reading": "あたる",
+    "meaning": "to hit; to strike; to be correct",
     "type": "verb",
-    "english": "to hit; to strike; to be correct",
-    "onyomi_hiragana": "とう",
-    "kunyomi_hiragana": "あ(たる)、あ(てる)",
+    "category": "single-kanji",
     "kanji": [
       "当"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "入る",
-    "reading_hiragana": "はいる",
+    "reading": "はいる",
+    "meaning": "to enter; to go in",
     "type": "verb",
-    "english": "to enter; to go in",
-    "onyomi_hiragana": "にゅう",
-    "kunyomi_hiragana": "い(る)、はい(る)",
+    "category": "single-kanji",
     "kanji": [
       "入"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "住む",
-    "reading_hiragana": "すむ",
+    "reading": "すむ",
+    "meaning": "to live; to reside",
     "type": "verb",
-    "english": "to live; to reside",
-    "onyomi_hiragana": "じゅう",
-    "kunyomi_hiragana": "す(む)",
+    "category": "single-kanji",
     "kanji": [
       "住"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "当たり前",
-    "reading_hiragana": "あたりまえ",
+    "reading": "あたりまえ",
+    "meaning": "natural; obvious;当然",
     "type": "noun/na-adj",
-    "english": "natural; obvious;当然",
-    "onyomi_hiragana": "とう、ぜん",
-    "kunyomi_hiragana": "あ(たる)、あ(てる)、まえ",
+    "category": "compound",
     "kanji": [
       "当",
       "前"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "木",
-    "reading_hiragana": "き",
+    "reading": "き",
+    "meaning": "tree; wood",
     "type": "noun",
-    "english": "tree; wood",
-    "onyomi_hiragana": "もく、ぼく",
-    "kunyomi_hiragana": "き",
+    "category": "single-kanji",
     "kanji": [
       "木"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "部分",
-    "reading_hiragana": "ぶぶん",
+    "reading": "ぶぶん",
+    "meaning": "part; portion; section",
     "type": "noun",
-    "english": "part; portion; section",
-    "onyomi_hiragana": "ぶ、ぶん、ふん",
-    "kunyomi_hiragana": "わ(ける)、わ(かる)",
+    "category": "compound",
     "kanji": [
       "部",
       "分"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "先程",
-    "reading_hiragana": "さきほど",
+    "reading": "さきほど",
+    "meaning": "a short while ago; earlier",
     "type": "noun/adverb",
-    "english": "a short while ago; earlier",
-    "onyomi_hiragana": "せん、てい",
-    "kunyomi_hiragana": "さき、ほど",
+    "category": "compound",
     "kanji": [
       "先",
       "程"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "黒い",
-    "reading_hiragana": "くろい",
+    "reading": "くろい",
+    "meaning": "black; dark",
     "type": "i-adjective",
-    "english": "black; dark",
-    "onyomi_hiragana": "こく",
-    "kunyomi_hiragana": "くろ(い)",
+    "category": "single-kanji",
     "kanji": [
       "黒"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "日",
-    "reading_hiragana": "ひ",
+    "reading": "ひ",
+    "meaning": "day; sun",
     "type": "noun",
-    "english": "day; sun",
-    "onyomi_hiragana": "にち、じつ",
-    "kunyomi_hiragana": "ひ、か",
+    "category": "single-kanji",
     "kanji": [
       "日"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "願う",
-    "reading_hiragana": "ねがう",
+    "reading": "ねがう",
+    "meaning": "to wish; to hope",
     "type": "verb",
-    "english": "to wish; to hope",
-    "onyomi_hiragana": "がん",
-    "kunyomi_hiragana": "ねが(う)",
+    "category": "single-kanji",
     "kanji": [
       "願"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "抜く",
-    "reading_hiragana": "ぬく",
+    "reading": "ぬく",
+    "meaning": "to pull out; to extract",
     "type": "verb",
-    "english": "to pull out; to extract",
-    "onyomi_hiragana": "ばつ",
-    "kunyomi_hiragana": "ぬ(く)、ぬ(ける)",
+    "category": "single-kanji",
     "kanji": [
       "抜"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "読む",
-    "reading_hiragana": "よむ",
+    "reading": "よむ",
+    "meaning": "to read",
     "type": "verb",
-    "english": "to read",
-    "onyomi_hiragana": "どく、とう",
-    "kunyomi_hiragana": "よ(む)",
+    "category": "single-kanji",
     "kanji": [
       "読"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "予想",
-    "reading_hiragana": "よそう",
+    "reading": "よそう",
+    "meaning": "expectation; prediction",
     "type": "noun",
-    "english": "expectation; prediction",
-    "onyomi_hiragana": "よ、そう",
-    "kunyomi_hiragana": "おも(う)",
+    "category": "compound",
     "kanji": [
       "予",
       "想"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "嫌",
-    "reading_hiragana": "いや",
+    "reading": "いや",
+    "meaning": "disliked; unpleasant",
     "type": "na-adjective",
-    "english": "disliked; unpleasant",
-    "onyomi_hiragana": "けん",
-    "kunyomi_hiragana": "いや、きら(う)",
+    "category": "single-kanji",
     "kanji": [
       "嫌"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "諦める",
-    "reading_hiragana": "あきらめる",
+    "reading": "あきらめる",
+    "meaning": "to give up; to abandon",
     "type": "verb",
-    "english": "to give up; to abandon",
-    "onyomi_hiragana": "てい",
-    "kunyomi_hiragana": "あきら(める)",
+    "category": "single-kanji",
     "kanji": [
       "諦"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "恐らく",
-    "reading_hiragana": "おそらく",
+    "reading": "おそらく",
+    "meaning": "probably; perhaps",
     "type": "adverb",
-    "english": "probably; perhaps",
-    "onyomi_hiragana": "きょう",
-    "kunyomi_hiragana": "おそ(れる)",
+    "category": "single-kanji",
     "kanji": [
       "恐"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "慣れる",
-    "reading_hiragana": "なれる",
+    "reading": "なれる",
+    "meaning": "to get used to; to become accustomed",
     "type": "verb",
-    "english": "to get used to; to become accustomed",
-    "onyomi_hiragana": "かん",
-    "kunyomi_hiragana": "な(れる)",
+    "category": "single-kanji",
     "kanji": [
       "慣"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "山",
-    "reading_hiragana": "やま",
+    "reading": "やま",
+    "meaning": "mountain",
     "type": "noun",
-    "english": "mountain",
-    "onyomi_hiragana": "さん",
-    "kunyomi_hiragana": "やま",
+    "category": "single-kanji",
     "kanji": [
       "山"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "別",
-    "reading_hiragana": "べつ",
+    "reading": "べつ",
+    "meaning": "separate; different",
     "type": "noun/na-adj",
-    "english": "separate; different",
-    "onyomi_hiragana": "べつ",
-    "kunyomi_hiragana": "わか(れる)",
+    "category": "single-kanji",
     "kanji": [
       "別"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "文字",
-    "reading_hiragana": "もじ",
+    "reading": "もじ",
+    "meaning": "letter; character",
     "type": "noun",
-    "english": "letter; character",
-    "onyomi_hiragana": "ぶん、もん、じ",
-    "kunyomi_hiragana": "ふみ、あざ",
+    "category": "compound",
     "kanji": [
       "文",
       "字"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "同時",
-    "reading_hiragana": "どうじ",
+    "reading": "どうじ",
+    "meaning": "simultaneous; same time",
     "type": "noun",
-    "english": "simultaneous; same time",
-    "onyomi_hiragana": "どう、じ",
-    "kunyomi_hiragana": "おな(じ)、とき",
+    "category": "compound",
     "kanji": [
       "同",
       "時"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "道",
-    "reading_hiragana": "みち",
+    "reading": "みち",
+    "meaning": "road; path; way",
     "type": "noun",
-    "english": "road; path; way",
-    "onyomi_hiragana": "どう",
-    "kunyomi_hiragana": "みち",
+    "category": "single-kanji",
     "kanji": [
       "道"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "緊張",
-    "reading_hiragana": "きんちょう",
+    "reading": "きんちょう",
+    "meaning": "tension; nervousness",
     "type": "noun",
-    "english": "tension; nervousness",
-    "onyomi_hiragana": "きん、ちょう",
-    "kunyomi_hiragana": "は(る)",
+    "category": "compound",
     "kanji": [
       "緊",
       "張"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "食う",
-    "reading_hiragana": "くう",
+    "reading": "くう",
+    "meaning": "to eat (casual)",
     "type": "verb",
-    "english": "to eat (casual)",
-    "onyomi_hiragana": "しょく、じき",
-    "kunyomi_hiragana": "た(べる)、く(う)",
+    "category": "single-kanji",
     "kanji": [
       "食"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "生活",
-    "reading_hiragana": "せいかつ",
+    "reading": "せいかつ",
+    "meaning": "life; living",
     "type": "noun",
-    "english": "life; living",
-    "onyomi_hiragana": "せい、しょう、かつ",
-    "kunyomi_hiragana": "い(きる)、い(かす)",
+    "category": "compound",
     "kanji": [
       "生",
       "活"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "関する",
-    "reading_hiragana": "かんする",
+    "reading": "かんする",
+    "meaning": "to relate to; to concern",
     "type": "verb",
-    "english": "to relate to; to concern",
-    "onyomi_hiragana": "かん",
-    "kunyomi_hiragana": "かか(わる)",
+    "category": "single-kanji",
     "kanji": [
       "関"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "町",
-    "reading_hiragana": "まち",
+    "reading": "まち",
+    "meaning": "town",
     "type": "noun",
-    "english": "town",
-    "onyomi_hiragana": "ちょう",
-    "kunyomi_hiragana": "まち",
+    "category": "single-kanji",
     "kanji": [
       "町"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "変化",
-    "reading_hiragana": "へんか",
+    "reading": "へんか",
+    "meaning": "change; transformation",
     "type": "noun",
-    "english": "change; transformation",
-    "onyomi_hiragana": "へん、か",
-    "kunyomi_hiragana": "か(わる)、ば(ける)",
+    "category": "compound",
     "kanji": [
       "変",
       "化"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "両手",
-    "reading_hiragana": "りょうて",
+    "reading": "りょうて",
+    "meaning": "both hands",
     "type": "noun",
-    "english": "both hands",
-    "onyomi_hiragana": "りょう、しゅ",
-    "kunyomi_hiragana": "て",
+    "category": "compound",
     "kanji": [
       "両",
       "手"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "重要",
-    "reading_hiragana": "じゅうよう",
+    "reading": "じゅうよう",
+    "meaning": "important; essential",
     "type": "na-adj",
-    "english": "important; essential",
-    "onyomi_hiragana": "じゅう、ちょう、よう",
-    "kunyomi_hiragana": "おも(い)、い(る)",
+    "category": "compound",
     "kanji": [
       "重",
       "要"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "開く",
-    "reading_hiragana": "ひらく",
+    "reading": "ひらく",
+    "meaning": "to open",
     "type": "verb",
-    "english": "to open",
-    "onyomi_hiragana": "かい",
-    "kunyomi_hiragana": "ひら(く)",
+    "category": "single-kanji",
     "kanji": [
       "開"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "関わる",
-    "reading_hiragana": "かかわる",
+    "reading": "かかわる",
+    "meaning": "to be involved in; to relate to",
     "type": "verb",
-    "english": "to be involved in; to relate to",
-    "onyomi_hiragana": "かん",
-    "kunyomi_hiragana": "かか(わる)",
+    "category": "single-kanji",
     "kanji": [
       "関"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "せっかく",
-    "reading_hiragana": "せっかく",
+    "reading": "せっかく",
+    "meaning": "with effort; specially",
     "type": "adverb",
-    "english": "with effort; specially",
-    "onyomi_hiragana": "—",
-    "kunyomi_hiragana": "—",
-    "kanji": [],
-    "notes": ""
+    "category": "kana-only",
+    "kanji": []
   },
   {
     "word": "気持ち",
-    "reading_hiragana": "きもち",
+    "reading": "きもち",
+    "meaning": "feeling; mood",
     "type": "noun",
-    "english": "feeling; mood",
-    "onyomi_hiragana": "き、じ",
-    "kunyomi_hiragana": "も(つ)",
+    "category": "compound",
     "kanji": [
       "気",
       "持"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "因る",
-    "reading_hiragana": "よる",
+    "reading": "よる",
+    "meaning": "to be due to; to depend on",
     "type": "verb",
-    "english": "to be due to; to depend on",
-    "onyomi_hiragana": "いん",
-    "kunyomi_hiragana": "よ(る)",
+    "category": "single-kanji",
     "kanji": [
       "因"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "一体",
-    "reading_hiragana": "いったい",
+    "reading": "いったい",
+    "meaning": "what on earth; generally",
     "type": "noun/adverb",
-    "english": "what on earth; generally",
-    "onyomi_hiragana": "いち、たい",
-    "kunyomi_hiragana": "ひと(つ)、からだ",
+    "category": "compound",
     "kanji": [
       "一",
       "体"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "納得",
-    "reading_hiragana": "なっとく",
+    "reading": "なっとく",
+    "meaning": "consent; understanding",
     "type": "noun",
-    "english": "consent; understanding",
-    "onyomi_hiragana": "のう、とく",
-    "kunyomi_hiragana": "おさ(める)、え(る)",
+    "category": "compound",
     "kanji": [
       "納",
       "得"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "伝わる",
-    "reading_hiragana": "つたわる",
+    "reading": "つたわる",
+    "meaning": "to be conveyed; to be transmitted",
     "type": "verb",
-    "english": "to be conveyed; to be transmitted",
-    "onyomi_hiragana": "でん",
-    "kunyomi_hiragana": "つた(わる)",
+    "category": "single-kanji",
     "kanji": [
       "伝"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "能力",
-    "reading_hiragana": "のうりょく",
+    "reading": "のうりょく",
+    "meaning": "ability; capability",
     "type": "noun",
-    "english": "ability; capability",
-    "onyomi_hiragana": "のう、りょく、りき",
-    "kunyomi_hiragana": "ちから",
+    "category": "compound",
     "kanji": [
       "能",
       "力"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "掴む",
-    "reading_hiragana": "つかむ",
+    "reading": "つかむ",
+    "meaning": "to grasp; to seize",
     "type": "verb",
-    "english": "to grasp; to seize",
-    "onyomi_hiragana": "かく",
-    "kunyomi_hiragana": "つか(む)",
+    "category": "single-kanji",
     "kanji": [
       "掴"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "持って行く",
-    "reading_hiragana": "もっていく",
+    "reading": "もっていく",
+    "meaning": "to take (something)",
     "type": "verb",
-    "english": "to take (something)",
-    "onyomi_hiragana": "じ、こう、ぎょう",
-    "kunyomi_hiragana": "も(つ)、い(く)",
+    "category": "compound",
     "kanji": [
       "持",
       "行"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "もっとも",
-    "reading_hiragana": "もっとも",
+    "reading": "もっとも",
+    "meaning": "most reasonable; but",
     "type": "adverb",
-    "english": "most reasonable; but",
-    "onyomi_hiragana": "—",
-    "kunyomi_hiragana": "—",
-    "kanji": [],
-    "notes": ""
+    "category": "kana-only",
+    "kanji": []
   },
   {
     "word": "最も",
-    "reading_hiragana": "もっとも",
+    "reading": "もっとも",
+    "meaning": "most; extremely",
     "type": "adverb",
-    "english": "most; extremely",
-    "onyomi_hiragana": "さい",
-    "kunyomi_hiragana": "もっと(も)",
+    "category": "single-kanji",
     "kanji": [
       "最"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "急",
-    "reading_hiragana": "きゅう",
+    "reading": "きゅう",
+    "meaning": "urgent; sudden",
     "type": "noun/na-adj",
-    "english": "urgent; sudden",
-    "onyomi_hiragana": "きゅう",
-    "kunyomi_hiragana": "いそ(ぐ)",
+    "category": "single-kanji",
     "kanji": [
       "急"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "はっきり",
-    "reading_hiragana": "はっきり",
+    "reading": "はっきり",
+    "meaning": "clearly; distinctly",
     "type": "adverb",
-    "english": "clearly; distinctly",
-    "onyomi_hiragana": "—",
-    "kunyomi_hiragana": "—",
-    "kanji": [],
-    "notes": ""
+    "category": "kana-only",
+    "kanji": []
   },
   {
     "word": "進める",
-    "reading_hiragana": "すすめる",
+    "reading": "すすめる",
+    "meaning": "to advance; to promote",
     "type": "verb",
-    "english": "to advance; to promote",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "すす(める)、すす(む)",
+    "category": "single-kanji",
     "kanji": [
       "進"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "増える",
-    "reading_hiragana": "ふえる",
+    "reading": "ふえる",
+    "meaning": "to increase (intransitive)",
     "type": "verb",
-    "english": "to increase (intransitive)",
-    "onyomi_hiragana": "ぞう",
-    "kunyomi_hiragana": "ふ(える)",
+    "category": "single-kanji",
     "kanji": [
       "増"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "低い",
-    "reading_hiragana": "ひくい",
+    "reading": "ひくい",
+    "meaning": "low; short",
     "type": "i-adj",
-    "english": "low; short",
-    "onyomi_hiragana": "てい",
-    "kunyomi_hiragana": "ひく(い)",
+    "category": "single-kanji",
     "kanji": [
       "低"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "状態",
-    "reading_hiragana": "じょうたい",
+    "reading": "じょうたい",
+    "meaning": "condition; state",
     "type": "noun",
-    "english": "condition; state",
-    "onyomi_hiragana": "じょう、たい",
-    "kunyomi_hiragana": "—",
+    "category": "compound",
     "kanji": [
       "状",
       "態"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "予定",
-    "reading_hiragana": "よてい",
+    "reading": "よてい",
+    "meaning": "schedule; plan",
     "type": "noun",
-    "english": "schedule; plan",
-    "onyomi_hiragana": "よ、てい",
-    "kunyomi_hiragana": "さだ(める)",
+    "category": "compound",
     "kanji": [
       "予",
       "定"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "例えば",
-    "reading_hiragana": "たとえば",
+    "reading": "たとえば",
+    "meaning": "for example",
     "type": "adverb",
-    "english": "for example",
-    "onyomi_hiragana": "れい",
-    "kunyomi_hiragana": "たと(える)",
+    "category": "single-kanji",
     "kanji": [
       "例"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "そろそろ",
-    "reading_hiragana": "そろそろ",
+    "reading": "そろそろ",
+    "meaning": "soon; gradually",
     "type": "adverb",
-    "english": "soon; gradually",
-    "onyomi_hiragana": "—",
-    "kunyomi_hiragana": "—",
-    "kanji": [],
-    "notes": ""
+    "category": "kana-only",
+    "kanji": []
   },
   {
     "word": "未だ",
-    "reading_hiragana": "いまだ",
+    "reading": "いまだ",
+    "meaning": "still; yet",
     "type": "adverb",
-    "english": "still; yet",
-    "onyomi_hiragana": "み",
-    "kunyomi_hiragana": "いま(だ)",
+    "category": "single-kanji",
     "kanji": [
       "未"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "抑える",
-    "reading_hiragana": "おさえる",
+    "reading": "おさえる",
+    "meaning": "to suppress; to restrain",
     "type": "verb",
-    "english": "to suppress; to restrain",
-    "onyomi_hiragana": "よく",
-    "kunyomi_hiragana": "おさ(える)",
+    "category": "single-kanji",
     "kanji": [
       "抑"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "必要",
-    "reading_hiragana": "ひつよう",
+    "reading": "ひつよう",
+    "meaning": "necessary; essential",
     "type": "noun/na-adj",
-    "english": "necessary; essential",
-    "onyomi_hiragana": "ひつ、よう",
-    "kunyomi_hiragana": "かなら(ず)、い(る)",
+    "category": "compound",
     "kanji": [
       "必",
       "要"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "非常",
-    "reading_hiragana": "ひじょう",
+    "reading": "ひじょう",
+    "meaning": "very; extraordinary",
     "type": "noun/na-adj",
-    "english": "very; extraordinary",
-    "onyomi_hiragana": "ひ、じょう",
-    "kunyomi_hiragana": "つね",
+    "category": "compound",
     "kanji": [
       "非",
       "常"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "自ら",
-    "reading_hiragana": "みずから",
+    "reading": "みずから",
+    "meaning": "oneself; personally",
     "type": "adverb",
-    "english": "oneself; personally",
-    "onyomi_hiragana": "じ",
-    "kunyomi_hiragana": "みずか(ら)",
+    "category": "single-kanji",
     "kanji": [
       "自"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "用",
-    "reading_hiragana": "よう",
+    "reading": "よう",
+    "meaning": "use; purpose",
     "type": "noun",
-    "english": "use; purpose",
-    "onyomi_hiragana": "よう",
-    "kunyomi_hiragana": "もち(いる)",
+    "category": "single-kanji",
     "kanji": [
       "用"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "取る",
-    "reading_hiragana": "とる",
+    "reading": "とる",
+    "meaning": "to take; to pick up",
     "type": "verb",
-    "english": "to take; to pick up",
-    "onyomi_hiragana": "しゅ",
-    "kunyomi_hiragana": "と(る)",
+    "category": "single-kanji",
     "kanji": [
       "取"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "頼む",
-    "reading_hiragana": "たのむ",
+    "reading": "たのむ",
+    "meaning": "to request; to rely on",
     "type": "verb",
-    "english": "to request; to rely on",
-    "onyomi_hiragana": "らい",
-    "kunyomi_hiragana": "たの(む)",
+    "category": "single-kanji",
     "kanji": [
       "頼"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "現実",
-    "reading_hiragana": "げんじつ",
+    "reading": "げんじつ",
+    "meaning": "reality",
     "type": "noun",
-    "english": "reality",
-    "onyomi_hiragana": "げん、じつ",
-    "kunyomi_hiragana": "あらわ(れる)、み",
+    "category": "compound",
     "kanji": [
       "現",
       "実"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "距離",
-    "reading_hiragana": "きょり",
+    "reading": "きょり",
+    "meaning": "distance",
     "type": "noun",
-    "english": "distance",
-    "onyomi_hiragana": "きょ、り",
-    "kunyomi_hiragana": "はな(れる)",
+    "category": "compound",
     "kanji": [
       "距",
       "離"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "載せる",
-    "reading_hiragana": "のせる",
+    "reading": "のせる",
+    "meaning": "to place on; to publish",
     "type": "verb",
-    "english": "to place on; to publish",
-    "onyomi_hiragana": "さい",
-    "kunyomi_hiragana": "の(せる)",
+    "category": "single-kanji",
     "kanji": [
       "載"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "森",
-    "reading_hiragana": "もり",
+    "reading": "もり",
+    "meaning": "forest",
     "type": "noun",
-    "english": "forest",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "もり",
+    "category": "single-kanji",
     "kanji": [
       "森"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "向く",
-    "reading_hiragana": "むく",
+    "reading": "むく",
+    "meaning": "to face; to turn toward",
     "type": "verb",
-    "english": "to face; to turn toward",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "む(く)",
+    "category": "single-kanji",
     "kanji": [
       "向"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "効果",
-    "reading_hiragana": "こうか",
+    "reading": "こうか",
+    "meaning": "effect; effectiveness",
     "type": "noun",
-    "english": "effect; effectiveness",
-    "onyomi_hiragana": "こう、か",
-    "kunyomi_hiragana": "は(たす)",
+    "category": "compound",
     "kanji": [
       "効",
       "果"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "料理",
-    "reading_hiragana": "りょうり",
+    "reading": "りょうり",
+    "meaning": "cooking; cuisine",
     "type": "noun",
-    "english": "cooking; cuisine",
-    "onyomi_hiragana": "りょう、り",
-    "kunyomi_hiragana": "ことわり",
+    "category": "compound",
     "kanji": [
       "料",
       "理"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "中心",
-    "reading_hiragana": "ちゅうしん",
+    "reading": "ちゅうしん",
+    "meaning": "center; core",
     "type": "noun",
-    "english": "center; core",
-    "onyomi_hiragana": "ちゅう、しん",
-    "kunyomi_hiragana": "なか、こころ",
+    "category": "compound",
     "kanji": [
       "中",
       "心"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "感じる",
-    "reading_hiragana": "かんじる",
+    "reading": "かんじる",
+    "meaning": "to feel; to sense",
     "type": "verb",
-    "english": "to feel; to sense",
-    "onyomi_hiragana": "かん",
-    "kunyomi_hiragana": "かん(じる)",
+    "category": "single-kanji",
     "kanji": [
       "感"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "普通",
-    "reading_hiragana": "ふつう",
+    "reading": "ふつう",
+    "meaning": "normal; ordinary",
     "type": "noun/na-adj",
-    "english": "normal; ordinary",
-    "onyomi_hiragana": "ふ、つう",
-    "kunyomi_hiragana": "とお(る)",
+    "category": "compound",
     "kanji": [
       "普",
       "通"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "意外",
-    "reading_hiragana": "いがい",
+    "reading": "いがい",
+    "meaning": "unexpected; surprising",
     "type": "noun/na-adj",
-    "english": "unexpected; surprising",
-    "onyomi_hiragana": "い、がい",
-    "kunyomi_hiragana": "そと",
+    "category": "compound",
     "kanji": [
       "意",
       "外"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "集める",
-    "reading_hiragana": "あつめる",
+    "reading": "あつめる",
+    "meaning": "to collect; to gather",
     "type": "verb",
-    "english": "to collect; to gather",
-    "onyomi_hiragana": "しゅう",
-    "kunyomi_hiragana": "あつ(める)",
+    "category": "single-kanji",
     "kanji": [
       "集"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "若い",
-    "reading_hiragana": "わかい",
+    "reading": "わかい",
+    "meaning": "young",
     "type": "i-adj",
-    "english": "young",
-    "onyomi_hiragana": "じゃく",
-    "kunyomi_hiragana": "わか(い)",
+    "category": "single-kanji",
     "kanji": [
       "若"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "奥",
-    "reading_hiragana": "おく",
+    "reading": "おく",
+    "meaning": "inner part; back",
     "type": "noun",
-    "english": "inner part; back",
-    "onyomi_hiragana": "おう",
-    "kunyomi_hiragana": "おく",
+    "category": "single-kanji",
     "kanji": [
       "奥"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "返る",
-    "reading_hiragana": "かえる",
+    "reading": "かえる",
+    "meaning": "to return (intransitive)",
     "type": "verb",
-    "english": "to return (intransitive)",
-    "onyomi_hiragana": "へん",
-    "kunyomi_hiragana": "かえ(る)",
+    "category": "single-kanji",
     "kanji": [
       "返"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "会話",
-    "reading_hiragana": "かいわ",
+    "reading": "かいわ",
+    "meaning": "conversation",
     "type": "noun",
-    "english": "conversation",
-    "onyomi_hiragana": "かい、わ",
-    "kunyomi_hiragana": "あ(う)、はな(す)",
+    "category": "compound",
     "kanji": [
       "会",
       "話"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "作る",
-    "reading_hiragana": "つくる",
+    "reading": "つくる",
+    "meaning": "to make; to create",
     "type": "verb",
-    "english": "to make; to create",
-    "onyomi_hiragana": "さく",
-    "kunyomi_hiragana": "つく(る)",
+    "category": "single-kanji",
     "kanji": [
       "作"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "学校",
-    "reading_hiragana": "がっこう",
+    "reading": "がっこう",
+    "meaning": "school",
     "type": "noun",
-    "english": "school",
-    "onyomi_hiragana": "がく、こう",
-    "kunyomi_hiragana": "まな(ぶ)",
+    "category": "compound",
     "kanji": [
       "学",
       "校"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "過ごす",
-    "reading_hiragana": "すごす",
+    "reading": "すごす",
+    "meaning": "to spend (time)",
     "type": "verb",
-    "english": "to spend (time)",
-    "onyomi_hiragana": "か",
-    "kunyomi_hiragana": "す(ごす)",
+    "category": "single-kanji",
     "kanji": [
       "過"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "進む",
-    "reading_hiragana": "すすむ",
+    "reading": "すすむ",
+    "meaning": "to advance; to proceed",
     "type": "verb",
-    "english": "to advance; to proceed",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "すす(む)、すす(める)",
+    "category": "single-kanji",
     "kanji": [
       "進"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "影響",
-    "reading_hiragana": "えいきょう",
+    "reading": "えいきょう",
+    "meaning": "influence; effect",
     "type": "noun",
-    "english": "influence; effect",
-    "onyomi_hiragana": "えい、きょう",
-    "kunyomi_hiragana": "かげ、ひび(く)",
+    "category": "compound",
     "kanji": [
       "影",
       "響"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "起こす",
-    "reading_hiragana": "おこす",
+    "reading": "おこす",
+    "meaning": "to cause; to raise",
     "type": "verb",
-    "english": "to cause; to raise",
-    "onyomi_hiragana": "き",
-    "kunyomi_hiragana": "お(こす)、お(きる)、お(こる)",
+    "category": "single-kanji",
     "kanji": [
       "起"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "打つ",
-    "reading_hiragana": "うつ",
+    "reading": "うつ",
+    "meaning": "to hit; to strike",
     "type": "verb",
-    "english": "to hit; to strike",
-    "onyomi_hiragana": "だ",
-    "kunyomi_hiragana": "う(つ)",
+    "category": "single-kanji",
     "kanji": [
       "打"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "目的",
-    "reading_hiragana": "もくてき",
+    "reading": "もくてき",
+    "meaning": "purpose; objective",
     "type": "noun",
-    "english": "purpose; objective",
-    "onyomi_hiragana": "もく、てき",
-    "kunyomi_hiragana": "め、まと",
+    "category": "compound",
     "kanji": [
       "目",
       "的"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "窓",
-    "reading_hiragana": "まど",
+    "reading": "まど",
+    "meaning": "window",
     "type": "noun",
-    "english": "window",
-    "onyomi_hiragana": "そう",
-    "kunyomi_hiragana": "まど",
+    "category": "single-kanji",
     "kanji": [
       "窓"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "酒",
-    "reading_hiragana": "さけ",
+    "reading": "さけ",
+    "meaning": "alcohol; sake",
     "type": "noun",
-    "english": "alcohol; sake",
-    "onyomi_hiragana": "しゅ",
-    "kunyomi_hiragana": "さけ、さか",
+    "category": "single-kanji",
     "kanji": [
       "酒"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "中々",
-    "reading_hiragana": "なかなか",
+    "reading": "なかなか",
+    "meaning": "quite; fairly",
     "type": "adverb",
-    "english": "quite; fairly",
-    "onyomi_hiragana": "ちゅう",
-    "kunyomi_hiragana": "なか",
+    "category": "single-kanji",
     "kanji": [
       "中"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "起こる",
-    "reading_hiragana": "おこる",
+    "reading": "おこる",
+    "meaning": "to happen; to occur",
     "type": "verb",
-    "english": "to happen; to occur",
-    "onyomi_hiragana": "き",
-    "kunyomi_hiragana": "お(こる)、お(きる)、お(こす)",
+    "category": "single-kanji",
     "kanji": [
       "起"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "必死",
-    "reading_hiragana": "ひっし",
+    "reading": "ひっし",
+    "meaning": "desperate; frantic",
     "type": "noun/na-adj",
-    "english": "desperate; frantic",
-    "onyomi_hiragana": "ひつ、し",
-    "kunyomi_hiragana": "かなら(ず)、し(ぬ)",
+    "category": "compound",
     "kanji": [
       "必",
       "死"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "影",
-    "reading_hiragana": "かげ",
+    "reading": "かげ",
+    "meaning": "shadow; shade",
     "type": "noun",
-    "english": "shadow; shade",
-    "onyomi_hiragana": "えい",
-    "kunyomi_hiragana": "かげ",
+    "category": "single-kanji",
     "kanji": [
       "影"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "経験",
-    "reading_hiragana": "けいけん",
+    "reading": "けいけん",
+    "meaning": "experience",
     "type": "noun",
-    "english": "experience",
-    "onyomi_hiragana": "けい、けん",
-    "kunyomi_hiragana": "へ(る)、—",
+    "category": "compound",
     "kanji": [
       "経",
       "験"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "互い",
-    "reading_hiragana": "たがい",
+    "reading": "たがい",
+    "meaning": "each other; mutually",
     "type": "noun/adverb",
-    "english": "each other; mutually",
-    "onyomi_hiragana": "ご",
-    "kunyomi_hiragana": "たが(い)",
+    "category": "single-kanji",
     "kanji": [
       "互"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "慌てる",
-    "reading_hiragana": "あわてる",
+    "reading": "あわてる",
+    "meaning": "to panic; to hurry",
     "type": "verb",
-    "english": "to panic; to hurry",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "あわ(てる)",
+    "category": "single-kanji",
     "kanji": [
       "慌"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "安心",
-    "reading_hiragana": "あんしん",
+    "reading": "あんしん",
+    "meaning": "relief; peace of mind",
     "type": "noun",
-    "english": "relief; peace of mind",
-    "onyomi_hiragana": "あん、しん",
-    "kunyomi_hiragana": "やす(い)、こころ",
+    "category": "compound",
     "kanji": [
       "安",
       "心"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "付き合う",
-    "reading_hiragana": "つきあう",
+    "reading": "つきあう",
+    "meaning": "to associate with; to date",
     "type": "verb",
-    "english": "to associate with; to date",
-    "onyomi_hiragana": "ふ、ごう",
-    "kunyomi_hiragana": "つ(く)、あ(う)",
+    "category": "compound",
     "kanji": [
       "付",
       "合"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "責任",
-    "reading_hiragana": "せきにん",
+    "reading": "せきにん",
+    "meaning": "responsibility",
     "type": "noun",
-    "english": "responsibility",
-    "onyomi_hiragana": "せき、にん",
-    "kunyomi_hiragana": "せ(める)、まか(せる)",
+    "category": "compound",
     "kanji": [
       "責",
       "任"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "仲間",
-    "reading_hiragana": "なかま",
+    "reading": "なかま",
+    "meaning": "companion; group",
     "type": "noun",
-    "english": "companion; group",
-    "onyomi_hiragana": "ちゅう、かん",
-    "kunyomi_hiragana": "なか、あいだ",
+    "category": "compound",
     "kanji": [
       "仲",
       "間"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "状況",
-    "reading_hiragana": "じょうきょう",
+    "reading": "じょうきょう",
+    "meaning": "situation; circumstances",
     "type": "noun",
-    "english": "situation; circumstances",
-    "onyomi_hiragana": "じょう、きょう",
-    "kunyomi_hiragana": "—、—",
+    "category": "compound",
     "kanji": [
       "状",
       "況"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "探す",
-    "reading_hiragana": "さがす",
+    "reading": "さがす",
+    "meaning": "to look for; to search",
     "type": "verb",
-    "english": "to look for; to search",
-    "onyomi_hiragana": "たん",
-    "kunyomi_hiragana": "さが(す)",
+    "category": "single-kanji",
     "kanji": [
       "探"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "襲う",
-    "reading_hiragana": "おそう",
+    "reading": "おそう",
+    "meaning": "to attack; to assault",
     "type": "verb",
-    "english": "to attack; to assault",
-    "onyomi_hiragana": "しゅう",
-    "kunyomi_hiragana": "おそ(う)",
+    "category": "single-kanji",
     "kanji": [
       "襲"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "空",
-    "reading_hiragana": "そら",
+    "reading": "そら",
+    "meaning": "sky; empty",
     "type": "noun",
-    "english": "sky; empty",
-    "onyomi_hiragana": "くう",
-    "kunyomi_hiragana": "そら、あ(く)、から",
+    "category": "single-kanji",
     "kanji": [
       "空"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "認める",
-    "reading_hiragana": "みとめる",
+    "reading": "みとめる",
+    "meaning": "to recognize; to admit",
     "type": "verb",
-    "english": "to recognize; to admit",
-    "onyomi_hiragana": "にん",
-    "kunyomi_hiragana": "みと(める)",
+    "category": "single-kanji",
     "kanji": [
       "認"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "抱く",
-    "reading_hiragana": "だく",
+    "reading": "だく",
+    "meaning": "to hold; to embrace",
     "type": "verb",
-    "english": "to hold; to embrace",
-    "onyomi_hiragana": "ほう",
-    "kunyomi_hiragana": "だ(く)、かか(える)",
+    "category": "single-kanji",
     "kanji": [
       "抱"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "理解",
-    "reading_hiragana": "りかい",
+    "reading": "りかい",
+    "meaning": "understanding; comprehension",
     "type": "noun",
-    "english": "understanding; comprehension",
-    "onyomi_hiragana": "り、かい",
-    "kunyomi_hiragana": "ことわり、と(く)、わか(る)",
+    "category": "compound",
     "kanji": [
       "理",
       "解"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "任せる",
-    "reading_hiragana": "まかせる",
+    "reading": "まかせる",
+    "meaning": "to entrust; to leave to",
     "type": "verb",
-    "english": "to entrust; to leave to",
-    "onyomi_hiragana": "にん",
-    "kunyomi_hiragana": "まか(せる)",
+    "category": "single-kanji",
     "kanji": [
       "任"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "疑問",
-    "reading_hiragana": "ぎもん",
+    "reading": "ぎもん",
+    "meaning": "question; doubt",
     "type": "noun",
-    "english": "question; doubt",
-    "onyomi_hiragana": "ぎ、もん",
-    "kunyomi_hiragana": "うたが(う)、と(う)",
+    "category": "compound",
     "kanji": [
       "疑",
       "問"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "運ぶ",
-    "reading_hiragana": "はこぶ",
+    "reading": "はこぶ",
+    "meaning": "to carry; to transport",
     "type": "verb",
-    "english": "to carry; to transport",
-    "onyomi_hiragana": "うん",
-    "kunyomi_hiragana": "はこ(ぶ)",
+    "category": "single-kanji",
     "kanji": [
       "運"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "変",
-    "reading_hiragana": "へん",
+    "reading": "へん",
+    "meaning": "strange; unusual",
     "type": "noun/na-adj",
-    "english": "strange; unusual",
-    "onyomi_hiragana": "へん",
-    "kunyomi_hiragana": "か(わる)",
+    "category": "single-kanji",
     "kanji": [
       "変"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "語る",
-    "reading_hiragana": "かたる",
+    "reading": "かたる",
+    "meaning": "to tell; to narrate",
     "type": "verb",
-    "english": "to tell; to narrate",
-    "onyomi_hiragana": "ご",
-    "kunyomi_hiragana": "かた(る)",
+    "category": "single-kanji",
     "kanji": [
       "語"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "強い",
-    "reading_hiragana": "つよい",
+    "reading": "つよい",
+    "meaning": "strong",
     "type": "i-adj",
-    "english": "strong",
-    "onyomi_hiragana": "きょう",
-    "kunyomi_hiragana": "つよ(い)",
+    "category": "single-kanji",
     "kanji": [
       "強"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "唇",
-    "reading_hiragana": "くちびる",
+    "reading": "くちびる",
+    "meaning": "lips",
     "type": "noun",
-    "english": "lips",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "くちびる",
+    "category": "single-kanji",
     "kanji": [
       "唇"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "直ぐ",
-    "reading_hiragana": "すぐ",
+    "reading": "すぐ",
+    "meaning": "immediately; soon",
     "type": "adverb",
-    "english": "immediately; soon",
-    "onyomi_hiragana": "ちょく、じき",
-    "kunyomi_hiragana": "なお(す)、す(ぐ)",
+    "category": "single-kanji",
     "kanji": [
       "直"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "一応",
-    "reading_hiragana": "いちおう",
+    "reading": "いちおう",
+    "meaning": "for the time being; more or less",
     "type": "adverb",
-    "english": "for the time being; more or less",
-    "onyomi_hiragana": "いち、おう",
-    "kunyomi_hiragana": "ひと(つ)、こた(える)",
+    "category": "compound",
     "kanji": [
       "一",
       "応"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "むく",
-    "reading_hiragana": "むく",
+    "reading": "むく",
+    "meaning": "to peel; to turn (kana form)",
     "type": "verb",
-    "english": "to peel; to turn (kana form)",
-    "onyomi_hiragana": "—",
-    "kunyomi_hiragana": "—",
-    "kanji": [],
-    "notes": ""
+    "category": "kana-only",
+    "kanji": []
   },
   {
     "word": "人物",
-    "reading_hiragana": "じんぶつ",
+    "reading": "じんぶつ",
+    "meaning": "person; character",
     "type": "noun",
-    "english": "person; character",
-    "onyomi_hiragana": "じん、にん、ぶつ",
-    "kunyomi_hiragana": "ひと、もの",
+    "category": "compound",
     "kanji": [
       "人",
       "物"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "共に",
-    "reading_hiragana": "ともに",
+    "reading": "ともに",
+    "meaning": "together; both",
     "type": "adverb",
-    "english": "together; both",
-    "onyomi_hiragana": "きょう",
-    "kunyomi_hiragana": "とも",
+    "category": "single-kanji",
     "kanji": [
       "共"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "背",
-    "reading_hiragana": "せ",
+    "reading": "せ",
+    "meaning": "back; height",
     "type": "noun",
-    "english": "back; height",
-    "onyomi_hiragana": "はい",
-    "kunyomi_hiragana": "せ",
+    "category": "single-kanji",
     "kanji": [
       "背"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "幾つ",
-    "reading_hiragana": "いくつ",
+    "reading": "いくつ",
+    "meaning": "how many; how old",
     "type": "interrogative",
-    "english": "how many; how old",
-    "onyomi_hiragana": "き",
-    "kunyomi_hiragana": "いく",
+    "category": "single-kanji",
     "kanji": [
       "幾"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "何",
-    "reading_hiragana": "なに",
+    "reading": "なに",
+    "meaning": "what",
     "type": "interrogative",
-    "english": "what",
-    "onyomi_hiragana": "か",
-    "kunyomi_hiragana": "なに、なん",
+    "category": "single-kanji",
     "kanji": [
       "何"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "量",
-    "reading_hiragana": "りょう",
+    "reading": "りょう",
+    "meaning": "quantity; amount",
     "type": "noun",
-    "english": "quantity; amount",
-    "onyomi_hiragana": "りょう",
-    "kunyomi_hiragana": "はか(る)",
+    "category": "single-kanji",
     "kanji": [
       "量"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "特に",
-    "reading_hiragana": "とくに",
+    "reading": "とくに",
+    "meaning": "especially; particularly",
     "type": "adverb",
-    "english": "especially; particularly",
-    "onyomi_hiragana": "とく",
-    "kunyomi_hiragana": "—",
+    "category": "single-kanji",
     "kanji": [
       "特"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "眠る",
-    "reading_hiragana": "ねむる",
+    "reading": "ねむる",
+    "meaning": "to sleep",
     "type": "verb",
-    "english": "to sleep",
-    "onyomi_hiragana": "みん",
-    "kunyomi_hiragana": "ねむ(る)",
+    "category": "single-kanji",
     "kanji": [
       "眠"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "気付く",
-    "reading_hiragana": "きづく",
+    "reading": "きづく",
+    "meaning": "to notice; to realize",
     "type": "verb",
-    "english": "to notice; to realize",
-    "onyomi_hiragana": "き、ふ",
-    "kunyomi_hiragana": "つ(く)",
+    "category": "compound",
     "kanji": [
       "気",
       "付"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "忘れる",
-    "reading_hiragana": "わすれる",
+    "reading": "わすれる",
+    "meaning": "to forget",
     "type": "verb",
-    "english": "to forget",
-    "onyomi_hiragana": "ぼう",
-    "kunyomi_hiragana": "わす(れる)",
+    "category": "single-kanji",
     "kanji": [
       "忘"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "渡す",
-    "reading_hiragana": "わたす",
+    "reading": "わたす",
+    "meaning": "to hand over; to pass",
     "type": "verb",
-    "english": "to hand over; to pass",
-    "onyomi_hiragana": "と",
-    "kunyomi_hiragana": "わた(す)",
+    "category": "single-kanji",
     "kanji": [
       "渡"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "痛い",
-    "reading_hiragana": "いたい",
+    "reading": "いたい",
+    "meaning": "painful; hurts",
     "type": "i-adj",
-    "english": "painful; hurts",
-    "onyomi_hiragana": "つう",
-    "kunyomi_hiragana": "いた(い)",
+    "category": "single-kanji",
     "kanji": [
       "痛"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "決まる",
-    "reading_hiragana": "きまる",
+    "reading": "きまる",
+    "meaning": "to be decided",
     "type": "verb",
-    "english": "to be decided",
-    "onyomi_hiragana": "けつ",
-    "kunyomi_hiragana": "き(まる)",
+    "category": "single-kanji",
     "kanji": [
       "決"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "美しい",
-    "reading_hiragana": "うつくしい",
+    "reading": "うつくしい",
+    "meaning": "beautiful",
     "type": "i-adj",
-    "english": "beautiful",
-    "onyomi_hiragana": "び、み",
-    "kunyomi_hiragana": "うつく(しい)",
+    "category": "single-kanji",
     "kanji": [
       "美"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "奪う",
-    "reading_hiragana": "うばう",
+    "reading": "うばう",
+    "meaning": "to rob; to take by force",
     "type": "verb",
-    "english": "to rob; to take by force",
-    "onyomi_hiragana": "だつ",
-    "kunyomi_hiragana": "うば(う)",
+    "category": "single-kanji",
     "kanji": [
       "奪"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "見つかる",
-    "reading_hiragana": "みつかる",
+    "reading": "みつかる",
+    "meaning": "to be found; to be discovered",
     "type": "verb",
-    "english": "to be found; to be discovered",
-    "onyomi_hiragana": "けん",
-    "kunyomi_hiragana": "み(る)",
+    "category": "single-kanji",
     "kanji": [
       "見"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "深い",
-    "reading_hiragana": "ふかい",
+    "reading": "ふかい",
+    "meaning": "deep; profound",
     "type": "i-adj",
-    "english": "deep; profound",
-    "onyomi_hiragana": "しん",
-    "kunyomi_hiragana": "ふか(い)",
+    "category": "single-kanji",
     "kanji": [
       "深"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "良い",
-    "reading_hiragana": "よい",
+    "reading": "よい",
+    "meaning": "good",
     "type": "i-adj",
-    "english": "good",
-    "onyomi_hiragana": "りょう",
-    "kunyomi_hiragana": "よ(い)",
+    "category": "single-kanji",
     "kanji": [
       "良"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "取り敢えず",
-    "reading_hiragana": "とりあえず",
+    "reading": "とりあえず",
+    "meaning": "for now; for the time being",
     "type": "adverb",
-    "english": "for now; for the time being",
-    "onyomi_hiragana": "しゅ、かん",
-    "kunyomi_hiragana": "と(る)、あ(えて)",
+    "category": "compound",
     "kanji": [
       "取",
       "敢"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "向ける",
-    "reading_hiragana": "むける",
+    "reading": "むける",
+    "meaning": "to turn toward; to direct",
     "type": "verb",
-    "english": "to turn toward; to direct",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "む(く)",
+    "category": "single-kanji",
     "kanji": [
       "向"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "可愛い",
-    "reading_hiragana": "かわいい",
+    "reading": "かわいい",
+    "meaning": "cute; adorable",
     "type": "i-adj",
-    "english": "cute; adorable",
-    "onyomi_hiragana": "か、あい",
-    "kunyomi_hiragana": "いと(しい)",
+    "category": "compound",
     "kanji": [
       "可",
       "愛"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "下げる",
-    "reading_hiragana": "さげる",
+    "reading": "さげる",
+    "meaning": "to lower; to hang",
     "type": "verb",
-    "english": "to lower; to hang",
-    "onyomi_hiragana": "か、げ",
-    "kunyomi_hiragana": "さ(げる)",
+    "category": "single-kanji",
     "kanji": [
       "下"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "抱える",
-    "reading_hiragana": "かかえる",
+    "reading": "かかえる",
+    "meaning": "to hold; to carry; to have (problem)",
     "type": "verb",
-    "english": "to hold; to carry; to have (problem)",
-    "onyomi_hiragana": "ほう",
-    "kunyomi_hiragana": "かか(える)",
+    "category": "single-kanji",
     "kanji": [
       "抱"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "持つ",
-    "reading_hiragana": "もつ",
+    "reading": "もつ",
+    "meaning": "to hold; to have",
     "type": "verb",
-    "english": "to hold; to have",
-    "onyomi_hiragana": "じ",
-    "kunyomi_hiragana": "も(つ)",
+    "category": "single-kanji",
     "kanji": [
       "持"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "軽い",
-    "reading_hiragana": "かるい",
+    "reading": "かるい",
+    "meaning": "light; easy",
     "type": "i-adj",
-    "english": "light; easy",
-    "onyomi_hiragana": "けい",
-    "kunyomi_hiragana": "かる(い)",
+    "category": "single-kanji",
     "kanji": [
       "軽"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "過去",
-    "reading_hiragana": "かこ",
+    "reading": "かこ",
+    "meaning": "past",
     "type": "noun",
-    "english": "past",
-    "onyomi_hiragana": "か、きょ、こ",
-    "kunyomi_hiragana": "す(ぎる)、さ(る)",
+    "category": "compound",
     "kanji": [
       "過",
       "去"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "同じ",
-    "reading_hiragana": "おなじ",
+    "reading": "おなじ",
+    "meaning": "same; identical",
     "type": "adj",
-    "english": "same; identical",
-    "onyomi_hiragana": "どう",
-    "kunyomi_hiragana": "おな(じ)",
+    "category": "single-kanji",
     "kanji": [
       "同"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "お母さん",
-    "reading_hiragana": "おかあさん",
+    "reading": "おかあさん",
+    "meaning": "mother (polite)",
     "type": "noun",
-    "english": "mother (polite)",
-    "onyomi_hiragana": "ぼ",
-    "kunyomi_hiragana": "はは",
+    "category": "single-kanji",
     "kanji": [
       "母"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "方向",
-    "reading_hiragana": "ほうこう",
+    "reading": "ほうこう",
+    "meaning": "direction",
     "type": "noun",
-    "english": "direction",
-    "onyomi_hiragana": "ほう、こう",
-    "kunyomi_hiragana": "かた、む(く)",
+    "category": "compound",
     "kanji": [
       "方",
       "向"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "村",
-    "reading_hiragana": "むら",
+    "reading": "むら",
+    "meaning": "village",
     "type": "noun",
-    "english": "village",
-    "onyomi_hiragana": "そん",
-    "kunyomi_hiragana": "むら",
+    "category": "single-kanji",
     "kanji": [
       "村"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "疲れる",
-    "reading_hiragana": "つかれる",
+    "reading": "つかれる",
+    "meaning": "to get tired",
     "type": "verb",
-    "english": "to get tired",
-    "onyomi_hiragana": "ひ",
-    "kunyomi_hiragana": "つか(れる)",
+    "category": "single-kanji",
     "kanji": [
       "疲"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "格好",
-    "reading_hiragana": "かっこう",
+    "reading": "かっこう",
+    "meaning": "appearance; shape",
     "type": "noun",
-    "english": "appearance; shape",
-    "onyomi_hiragana": "かく、こう",
-    "kunyomi_hiragana": "す(き)",
+    "category": "compound",
     "kanji": [
       "格",
       "好"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "多く",
-    "reading_hiragana": "おおく",
+    "reading": "おおく",
+    "meaning": "many; much",
     "type": "adverb",
-    "english": "many; much",
-    "onyomi_hiragana": "た",
-    "kunyomi_hiragana": "おお(い)",
+    "category": "single-kanji",
     "kanji": [
       "多"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "既に",
-    "reading_hiragana": "すでに",
+    "reading": "すでに",
+    "meaning": "already",
     "type": "adverb",
-    "english": "already",
-    "onyomi_hiragana": "き",
-    "kunyomi_hiragana": "すで(に)",
+    "category": "single-kanji",
     "kanji": [
       "既"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "家族",
-    "reading_hiragana": "かぞく",
+    "reading": "かぞく",
+    "meaning": "family",
     "type": "noun",
-    "english": "family",
-    "onyomi_hiragana": "か、ぞく",
-    "kunyomi_hiragana": "いえ",
+    "category": "compound",
     "kanji": [
       "家",
       "族"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "現在",
-    "reading_hiragana": "げんざい",
+    "reading": "げんざい",
+    "meaning": "present; current",
     "type": "noun",
-    "english": "present; current",
-    "onyomi_hiragana": "げん、ざい",
-    "kunyomi_hiragana": "あらわ(れる)、あ(る)",
+    "category": "compound",
     "kanji": [
       "現",
       "在"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "加える",
-    "reading_hiragana": "くわえる",
+    "reading": "くわえる",
+    "meaning": "to add; to include",
     "type": "verb",
-    "english": "to add; to include",
-    "onyomi_hiragana": "か",
-    "kunyomi_hiragana": "くわ(える)",
+    "category": "single-kanji",
     "kanji": [
       "加"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "静か",
-    "reading_hiragana": "しずか",
+    "reading": "しずか",
+    "meaning": "quiet; calm",
     "type": "na-adj",
-    "english": "quiet; calm",
-    "onyomi_hiragana": "せい、じょう",
-    "kunyomi_hiragana": "しず(か)",
+    "category": "single-kanji",
     "kanji": [
       "静"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "流れる",
-    "reading_hiragana": "ながれる",
+    "reading": "ながれる",
+    "meaning": "to flow; to stream",
     "type": "verb",
-    "english": "to flow; to stream",
-    "onyomi_hiragana": "りゅう",
-    "kunyomi_hiragana": "なが(れる)",
+    "category": "single-kanji",
     "kanji": [
       "流"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "光",
-    "reading_hiragana": "ひかり",
+    "reading": "ひかり",
+    "meaning": "light",
     "type": "noun",
-    "english": "light",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "ひかり",
+    "category": "single-kanji",
     "kanji": [
       "光"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "張る",
-    "reading_hiragana": "はる",
+    "reading": "はる",
+    "meaning": "to stretch; to stick; to paste",
     "type": "verb",
-    "english": "to stretch; to stick; to paste",
-    "onyomi_hiragana": "ちょう",
-    "kunyomi_hiragana": "は(る)",
+    "category": "single-kanji",
     "kanji": [
       "張"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "使う",
-    "reading_hiragana": "つかう",
+    "reading": "つかう",
+    "meaning": "to use; to employ",
     "type": "verb",
-    "english": "to use; to employ",
-    "onyomi_hiragana": "し",
-    "kunyomi_hiragana": "つか(う)",
+    "category": "single-kanji",
     "kanji": [
       "使"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "浮かべる",
-    "reading_hiragana": "うかべる",
+    "reading": "うかべる",
+    "meaning": "to float; to bring to mind",
     "type": "verb",
-    "english": "to float; to bring to mind",
-    "onyomi_hiragana": "ふ",
-    "kunyomi_hiragana": "う(かべる)",
+    "category": "single-kanji",
     "kanji": [
       "浮"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "お陰",
-    "reading_hiragana": "おかげ",
+    "reading": "おかげ",
+    "meaning": "thanks to; owing to",
     "type": "noun",
-    "english": "thanks to; owing to",
-    "onyomi_hiragana": "いん",
-    "kunyomi_hiragana": "かげ",
+    "category": "single-kanji",
     "kanji": [
       "陰"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "国",
-    "reading_hiragana": "くに",
+    "reading": "くに",
+    "meaning": "country; nation",
     "type": "noun",
-    "english": "country; nation",
-    "onyomi_hiragana": "こく",
-    "kunyomi_hiragana": "くに",
+    "category": "single-kanji",
     "kanji": [
       "国"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "望む",
-    "reading_hiragana": "のぞむ",
+    "reading": "のぞむ",
+    "meaning": "to hope; to desire",
     "type": "verb",
-    "english": "to hope; to desire",
-    "onyomi_hiragana": "ぼう",
-    "kunyomi_hiragana": "のぞ(む)",
+    "category": "single-kanji",
     "kanji": [
       "望"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "甘い",
-    "reading_hiragana": "あまい",
+    "reading": "あまい",
+    "meaning": "sweet; lenient",
     "type": "i-adj",
-    "english": "sweet; lenient",
-    "onyomi_hiragana": "かん",
-    "kunyomi_hiragana": "あま(い)",
+    "category": "single-kanji",
     "kanji": [
       "甘"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "他",
-    "reading_hiragana": "ほか",
+    "reading": "ほか",
+    "meaning": "other; another",
     "type": "noun",
-    "english": "other; another",
-    "onyomi_hiragana": "た",
-    "kunyomi_hiragana": "ほか",
+    "category": "single-kanji",
     "kanji": [
       "他"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "繰り返す",
-    "reading_hiragana": "くりかえす",
+    "reading": "くりかえす",
+    "meaning": "to repeat",
     "type": "verb",
-    "english": "to repeat",
-    "onyomi_hiragana": "そう、へん",
-    "kunyomi_hiragana": "く(る)、かえ(す)",
+    "category": "compound",
     "kanji": [
       "繰",
       "返"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "無理",
-    "reading_hiragana": "むり",
+    "reading": "むり",
+    "meaning": "impossible; unreasonable",
     "type": "noun/na-adj",
-    "english": "impossible; unreasonable",
-    "onyomi_hiragana": "む、ぶ、り",
-    "kunyomi_hiragana": "な(い)、ことわり",
+    "category": "compound",
     "kanji": [
       "無",
       "理"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "勝つ",
-    "reading_hiragana": "かつ",
+    "reading": "かつ",
+    "meaning": "to win",
     "type": "verb",
-    "english": "to win",
-    "onyomi_hiragana": "しょう",
-    "kunyomi_hiragana": "か(つ)",
+    "category": "single-kanji",
     "kanji": [
       "勝"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "許す",
-    "reading_hiragana": "ゆるす",
+    "reading": "ゆるす",
+    "meaning": "to forgive; to allow",
     "type": "verb",
-    "english": "to forgive; to allow",
-    "onyomi_hiragana": "きょ",
-    "kunyomi_hiragana": "ゆる(す)",
+    "category": "single-kanji",
     "kanji": [
       "許"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "用意",
-    "reading_hiragana": "ようい",
+    "reading": "ようい",
+    "meaning": "preparation; readiness",
     "type": "noun",
-    "english": "preparation; readiness",
-    "onyomi_hiragana": "よう、い",
-    "kunyomi_hiragana": "もち(いる)",
+    "category": "compound",
     "kanji": [
       "用",
       "意"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "降りる",
-    "reading_hiragana": "おりる",
+    "reading": "おりる",
+    "meaning": "to descend; to get off",
     "type": "verb",
-    "english": "to descend; to get off",
-    "onyomi_hiragana": "こう",
-    "kunyomi_hiragana": "お(りる)",
+    "category": "single-kanji",
     "kanji": [
       "降"
-    ],
-    "notes": ""
+    ]
   },
   {
     "word": "食事",
-    "reading_hiragana": "しょくじ",
+    "reading": "しょくじ",
+    "meaning": "meal; eating",
     "type": "noun",
-    "english": "meal; eating",
-    "onyomi_hiragana": "しょく、じき、じ",
-    "kunyomi_hiragana": "た(べる)、く(う)、こと",
+    "category": "compound",
     "kanji": [
       "食",
       "事"
+    ]
+  },
+  {
+    "word": "残る",
+    "reading": "のこる",
+    "meaning": "to remain; to be left",
+    "type": "verb (u-verb)",
+    "kanji": [
+      "残"
     ],
-    "notes": ""
+    "category": "single-kanji"
+  },
+  {
+    "word": "涙",
+    "reading": "なみだ",
+    "meaning": "tear; tears",
+    "type": "noun",
+    "kanji": [
+      "涙"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "一瞬",
+    "reading": "いっしゅん",
+    "meaning": "instant; moment",
+    "type": "noun",
+    "kanji": [
+      "一",
+      "瞬"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "さっき",
+    "reading": "さっき",
+    "meaning": "a short while ago; earlier",
+    "type": "adverb",
+    "kanji": [],
+    "category": "kana-only"
+  },
+  {
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "judgment; decision",
+    "type": "noun",
+    "kanji": [
+      "判",
+      "断"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "感情",
+    "reading": "かんじょう",
+    "meaning": "emotion; feeling",
+    "type": "noun",
+    "kanji": [
+      "感",
+      "情"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "結局",
+    "reading": "けっきょく",
+    "meaning": "after all; in the end",
+    "type": "adverb",
+    "kanji": [
+      "結",
+      "局"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "わずか",
+    "reading": "わずか",
+    "meaning": "only; merely; slight",
+    "type": "na-adjective",
+    "kanji": [],
+    "category": "kana-only"
+  },
+  {
+    "word": "血",
+    "reading": "ち",
+    "meaning": "blood",
+    "type": "noun",
+    "kanji": [
+      "血"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "研究",
+    "reading": "けんきゅう",
+    "meaning": "research; study",
+    "type": "noun",
+    "kanji": [
+      "研",
+      "究"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "頰",
+    "reading": "ほお",
+    "meaning": "cheek",
+    "type": "noun",
+    "kanji": [
+      "頰"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "全然",
+    "reading": "ぜんぜん",
+    "meaning": "not at all; completely",
+    "type": "adverb",
+    "kanji": [
+      "全",
+      "然"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "仕方",
+    "reading": "しかた",
+    "meaning": "way; method; means",
+    "type": "noun",
+    "kanji": [
+      "仕",
+      "方"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "次第に",
+    "reading": "しだいに",
+    "meaning": "gradually; little by little",
+    "type": "adverb",
+    "kanji": [
+      "次",
+      "第"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "confirmation; verification",
+    "type": "noun",
+    "kanji": [
+      "確",
+      "認"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "伸ばす",
+    "reading": "のばす",
+    "meaning": "to stretch; to extend",
+    "type": "verb (u-verb)",
+    "kanji": [
+      "伸"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "以前",
+    "reading": "いぜん",
+    "meaning": "before; previously",
+    "type": "noun",
+    "kanji": [
+      "以",
+      "前"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "友達",
+    "reading": "ともだち",
+    "meaning": "friend",
+    "type": "noun",
+    "kanji": [
+      "友",
+      "達"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "連れて来る",
+    "reading": "つれてくる",
+    "meaning": "to bring (a person); to bring along",
+    "type": "verb (irregular)",
+    "kanji": [
+      "連",
+      "来"
+    ],
+    "category": "compound"
+  },
+  {
+    "word": "隣",
+    "reading": "となり",
+    "meaning": "next to; neighbor",
+    "type": "noun",
+    "kanji": [
+      "隣"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "避ける",
+    "reading": "さける",
+    "meaning": "to avoid; to evade",
+    "type": "verb (ru-verb)",
+    "kanji": [
+      "避"
+    ],
+    "category": "single-kanji"
+  },
+  {
+    "word": "ちょうど",
+    "reading": "ちょうど",
+    "meaning": "exactly; just; right",
+    "type": "adverb",
+    "kanji": [],
+    "category": "kana-only"
+  },
+  {
+    "word": "残念",
+    "reading": "ざんねん",
+    "meaning": "regrettable; unfortunate",
+    "type": "na-adjective",
+    "kanji": [
+      "残",
+      "念"
+    ],
+    "category": "compound"
   }
 ]
