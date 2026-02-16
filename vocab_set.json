@@ -2184,5 +2184,3694 @@
       "念"
     ],
     "category": "compound"
+  },
+  {
+    "word": "次",
+    "reading": "つぎ",
+    "meaning": "next; following",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "次"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "再び",
+    "reading": "ふたたび",
+    "meaning": "again; once more",
+    "type": "adverb",
+    "category": "single-kanji",
+    "kanji": [
+      "再"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "遭う",
+    "reading": "あう",
+    "meaning": "to encounter (negative)",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "遭"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "倒す",
+    "reading": "たおす",
+    "meaning": "to knock down; to defeat",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "倒"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "態度",
+    "reading": "たいど",
+    "meaning": "attitude; manner",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "態",
+      "度"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "歩く",
+    "reading": "あるく",
+    "meaning": "to walk",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "歩"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "移動",
+    "reading": "いどう",
+    "meaning": "movement; transfer",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "移",
+      "動"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "示す",
+    "reading": "しめす",
+    "meaning": "to show; to indicate",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "示"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "簡単",
+    "reading": "かんたん",
+    "meaning": "simple; easy",
+    "type": "adjective (na-adjective)",
+    "category": "compound",
+    "kanji": [
+      "簡",
+      "単"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "攻撃",
+    "reading": "こうげき",
+    "meaning": "attack; assault",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "攻",
+      "撃"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "命",
+    "reading": "いのち",
+    "meaning": "life",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "命"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "眺める",
+    "reading": "ながめる",
+    "meaning": "to gaze at; to look out at",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "眺"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "反応",
+    "reading": "はんのう",
+    "meaning": "reaction; response",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "反",
+      "応"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "金",
+    "reading": "かね",
+    "meaning": "money; gold",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "金"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "妹",
+    "reading": "いもうと",
+    "meaning": "younger sister",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "妹"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "臭い",
+    "reading": "くさい",
+    "meaning": "smelly; stinky",
+    "type": "adjective (i-adjective)",
+    "category": "single-kanji",
+    "kanji": [
+      "臭"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "可能",
+    "reading": "かのう",
+    "meaning": "possible; feasible",
+    "type": "adjective (na-adjective)",
+    "category": "compound",
+    "kanji": [
+      "可",
+      "能"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "心",
+    "reading": "こころ",
+    "meaning": "heart; mind",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "心"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "叫ぶ",
+    "reading": "さけぶ",
+    "meaning": "to shout; to cry out",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "叫"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "足りる",
+    "reading": "たりる",
+    "meaning": "to be enough; to suffice",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "足"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "休む",
+    "reading": "やすむ",
+    "meaning": "to rest; to take a break",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "休"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "上げる",
+    "reading": "あげる",
+    "meaning": "to raise; to lift",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "上"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "記憶",
+    "reading": "きおく",
+    "meaning": "memory; recollection",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "記",
+      "憶"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "居る",
+    "reading": "いる",
+    "meaning": "to exist (animate)",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "居"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "微笑む",
+    "reading": "ほほえむ",
+    "meaning": "to smile gently",
+    "type": "verb (u-verb)",
+    "category": "compound",
+    "kanji": [
+      "微",
+      "笑"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "頷く",
+    "reading": "うなずく",
+    "meaning": "to nod",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "頷"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "優しい",
+    "reading": "やさしい",
+    "meaning": "kind; gentle",
+    "type": "adjective (i-adjective)",
+    "category": "single-kanji",
+    "kanji": [
+      "優"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "女性",
+    "reading": "じょせい",
+    "meaning": "woman; female",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "女",
+      "性"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "震える",
+    "reading": "ふるえる",
+    "meaning": "to tremble; to shiver",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "震"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "代わる",
+    "reading": "かわる",
+    "meaning": "to replace; to take the place of",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "代"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "頃",
+    "reading": "ころ",
+    "meaning": "time; around",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "頃"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "存在",
+    "reading": "そんざい",
+    "meaning": "existence; presence",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "存",
+      "在"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "俺",
+    "reading": "おれ",
+    "meaning": "I; me (casual male)",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "俺"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "限り",
+    "reading": "かぎり",
+    "meaning": "limit; as long as",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "限"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "浮かぶ",
+    "reading": "うかぶ",
+    "meaning": "to float; to come to mind",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "浮"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "比べる",
+    "reading": "くらべる",
+    "meaning": "to compare",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "比"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "速い",
+    "reading": "はやい",
+    "meaning": "fast; quick",
+    "type": "adjective (i-adjective)",
+    "category": "single-kanji",
+    "kanji": [
+      "速"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "珍しい",
+    "reading": "めずらしい",
+    "meaning": "rare; unusual",
+    "type": "adjective (i-adjective)",
+    "category": "single-kanji",
+    "kanji": [
+      "珍"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "興味",
+    "reading": "きょうみ",
+    "meaning": "interest; curiosity",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "興",
+      "味"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "名",
+    "reading": "な",
+    "meaning": "name; reputation",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "名"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "追う",
+    "reading": "おう",
+    "meaning": "to chase; to pursue",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "追"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "振り返る",
+    "reading": "ふりかえる",
+    "meaning": "to look back; to reflect",
+    "type": "verb (u-verb)",
+    "category": "compound",
+    "kanji": [
+      "振",
+      "返"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "夢",
+    "reading": "ゆめ",
+    "meaning": "dream",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "夢"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "具体的",
+    "reading": "ぐたいてき",
+    "meaning": "concrete; specific",
+    "type": "adjective (na-adjective)",
+    "category": "compound",
+    "kanji": [
+      "具",
+      "体",
+      "的"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "仕事",
+    "reading": "しごと",
+    "meaning": "work; job",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "仕",
+      "事"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "結果",
+    "reading": "けっか",
+    "meaning": "result; outcome",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "結",
+      "果"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "自身",
+    "reading": "じしん",
+    "meaning": "oneself; personally",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "自",
+      "身"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "実際",
+    "reading": "じっさい",
+    "meaning": "in reality; actual; practical",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "実",
+      "際"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "見せる",
+    "reading": "みせる",
+    "meaning": "to show; to display",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "見"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "繋がる",
+    "reading": "つながる",
+    "meaning": "to connect; to be linked",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "繋"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "不安",
+    "reading": "ふあん",
+    "meaning": "anxiety; uneasiness",
+    "type": "noun/na-adjective",
+    "category": "compound",
+    "kanji": [
+      "不",
+      "安"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "始まる",
+    "reading": "はじまる",
+    "meaning": "to begin; to start (intransitive)",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "始"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "約束",
+    "reading": "やくそく",
+    "meaning": "promise; appointment",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "約",
+      "束"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "作業",
+    "reading": "さぎょう",
+    "meaning": "work; task; operation",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "作",
+      "業"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "終える",
+    "reading": "おえる",
+    "meaning": "to finish; to complete",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "終"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "溜め息",
+    "reading": "ためいき",
+    "meaning": "sigh",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "溜",
+      "息"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "意識",
+    "reading": "いしき",
+    "meaning": "consciousness; awareness",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "意",
+      "識"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "その内",
+    "reading": "そのうち",
+    "meaning": "before long; eventually",
+    "type": "adverb",
+    "category": "compound",
+    "kanji": [
+      "内"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "合わせる",
+    "reading": "あわせる",
+    "meaning": "to match; to combine; to adjust",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "合"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "遅い",
+    "reading": "おそい",
+    "meaning": "slow; late",
+    "type": "adjective (i-adjective)",
+    "category": "single-kanji",
+    "kanji": [
+      "遅"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "着る",
+    "reading": "きる",
+    "meaning": "to wear (upper body)",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "着"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "説明",
+    "reading": "せつめい",
+    "meaning": "explanation",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "説",
+      "明"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "喜ぶ",
+    "reading": "よろこぶ",
+    "meaning": "to rejoice; to be glad",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "喜"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "腕",
+    "reading": "うで",
+    "meaning": "arm; skill",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "腕"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "代える",
+    "reading": "かえる",
+    "meaning": "to replace; to substitute",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "代"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "立ち上げる",
+    "reading": "たちあげる",
+    "meaning": "to launch; to start up; to set up",
+    "type": "verb (ru-verb)",
+    "category": "compound",
+    "kanji": [
+      "立",
+      "上"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "致す",
+    "reading": "いたす",
+    "meaning": "to do (humble)",
+    "type": "verb (u-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "致"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "様子",
+    "reading": "ようす",
+    "meaning": "state; appearance; condition",
+    "type": "noun",
+    "category": "compound",
+    "kanji": [
+      "様",
+      "子"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "なぜ",
+    "reading": "なぜ",
+    "meaning": "why",
+    "type": "adverb",
+    "category": "kana-only",
+    "kanji": [],
+    "derived_from_compound": false
+  },
+  {
+    "word": "倒れる",
+    "reading": "たおれる",
+    "meaning": "to fall over; to collapse",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "倒"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "積極的",
+    "reading": "せっきょくてき",
+    "meaning": "positive; proactive; aggressive",
+    "type": "adjective (na-adjective)",
+    "category": "compound",
+    "kanji": [
+      "積",
+      "極",
+      "的"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "出る",
+    "reading": "でる",
+    "meaning": "to go out; to appear; to leave",
+    "type": "verb (ru-verb)",
+    "category": "single-kanji",
+    "kanji": [
+      "出"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "外",
+    "reading": "そと",
+    "meaning": "outside; exterior",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "外"
+    ],
+    "derived_from_compound": false
+  },
+  {
+    "word": "一",
+    "reading": "いち",
+    "meaning": "one",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "一"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "上",
+    "reading": "じょう",
+    "meaning": "up; above",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "上"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "下",
+    "reading": "か",
+    "meaning": "down; below",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "下"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "不",
+    "reading": "ふ",
+    "meaning": "not; non-",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "不"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "両",
+    "reading": "りょう",
+    "meaning": "both",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "両"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "中",
+    "reading": "ちゅう",
+    "meaning": "middle; inside",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "中"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "主",
+    "reading": "しゅ",
+    "meaning": "main; owner",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "主"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "予",
+    "reading": "よ",
+    "meaning": "in advance",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "予"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "事",
+    "reading": "じ",
+    "meaning": "thing; matter",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "事"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "互",
+    "reading": "ご",
+    "meaning": "mutual",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "互"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "人",
+    "reading": "ひと",
+    "meaning": "person",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "人"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "仕",
+    "reading": "し",
+    "meaning": "serve; do",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "仕"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "付",
+    "reading": "つける",
+    "meaning": "attach; add",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "付"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "代",
+    "reading": "だい",
+    "meaning": "substitute; generation",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "代"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "以",
+    "reading": "い",
+    "meaning": "by means of; from",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "以"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "仲",
+    "reading": "なか",
+    "meaning": "relationship; fellowship",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "仲"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "任",
+    "reading": "にん",
+    "meaning": "duty; 맡기다",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "任"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "休",
+    "reading": "やすむ",
+    "meaning": "rest",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "休"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "会",
+    "reading": "かい",
+    "meaning": "meet; association",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "会"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "伝",
+    "reading": "でん",
+    "meaning": "transmit; tell",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "伝"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "伸",
+    "reading": "のびる",
+    "meaning": "stretch; extend",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "伸"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "位",
+    "reading": "い",
+    "meaning": "rank; position",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "位"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "低",
+    "reading": "てい",
+    "meaning": "low",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "低"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "住",
+    "reading": "すむ",
+    "meaning": "live; reside",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "住"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "体",
+    "reading": "たい",
+    "meaning": "body",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "体"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "作",
+    "reading": "さく",
+    "meaning": "make; create",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "作"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "使",
+    "reading": "つかう",
+    "meaning": "use",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "使"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "例",
+    "reading": "れい",
+    "meaning": "example",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "例"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "倒",
+    "reading": "たおれる",
+    "meaning": "fall; topple",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "倒"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "優",
+    "reading": "やさしい",
+    "meaning": "kind; excellent",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "優"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "先",
+    "reading": "さき",
+    "meaning": "ahead; previous",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "先"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "入",
+    "reading": "はいる",
+    "meaning": "enter; insert",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "入"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "全",
+    "reading": "ぜん",
+    "meaning": "all; whole",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "全"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "共",
+    "reading": "きょう",
+    "meaning": "together; 共",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "共"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "具",
+    "reading": "ぐ",
+    "meaning": "tool; ingredient",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "具"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "内",
+    "reading": "うち",
+    "meaning": "inside; within",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "内"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "再",
+    "reading": "さい",
+    "meaning": "again",
+    "type": "adverb-base",
+    "category": "single-kanji",
+    "kanji": [
+      "再"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "出",
+    "reading": "でる",
+    "meaning": "go out; exit",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "出"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "分",
+    "reading": "ぶん",
+    "meaning": "part; minute",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "分"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "判",
+    "reading": "はん",
+    "meaning": "judge; 판",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "判"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "前",
+    "reading": "まえ",
+    "meaning": "front; before",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "前"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "力",
+    "reading": "ちから",
+    "meaning": "power; strength",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "力"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "加",
+    "reading": "くわえる",
+    "meaning": "add",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "加"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "効",
+    "reading": "こう",
+    "meaning": "effectiveness",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "効"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "動",
+    "reading": "うごく",
+    "meaning": "move",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "動"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "勝",
+    "reading": "かつ",
+    "meaning": "win",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "勝"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "化",
+    "reading": "か",
+    "meaning": "change; -化",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "化"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "単",
+    "reading": "たん",
+    "meaning": "single; simple",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "単"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "去",
+    "reading": "さる",
+    "meaning": "leave; past",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "去"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "友",
+    "reading": "とも",
+    "meaning": "friend",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "友"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "反",
+    "reading": "はん",
+    "meaning": "anti-; oppose",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "反"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "取",
+    "reading": "とる",
+    "meaning": "take",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "取"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "叫",
+    "reading": "さけぶ",
+    "meaning": "shout",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "叫"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "可",
+    "reading": "か",
+    "meaning": "possible; permitted",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "可"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "合",
+    "reading": "あう",
+    "meaning": "fit; match",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "合"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "同",
+    "reading": "どう",
+    "meaning": "same",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "同"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "向",
+    "reading": "むく",
+    "meaning": "face; turn toward",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "向"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "味",
+    "reading": "あじ",
+    "meaning": "taste",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "味"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "問",
+    "reading": "とい",
+    "meaning": "question",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "問"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "喜",
+    "reading": "よろこぶ",
+    "meaning": "rejoice",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "喜"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "因",
+    "reading": "いん",
+    "meaning": "cause; factor",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "因"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "在",
+    "reading": "ざい",
+    "meaning": "exist; be located",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "在"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "増",
+    "reading": "ふえる",
+    "meaning": "increase",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "増"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "多",
+    "reading": "おおい",
+    "meaning": "many",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "多"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "奪",
+    "reading": "うばう",
+    "meaning": "rob; take",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "奪"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "女",
+    "reading": "おんな",
+    "meaning": "woman",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "女"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "好",
+    "reading": "すき",
+    "meaning": "like; fondness",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "好"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "始",
+    "reading": "はじまる",
+    "meaning": "begin",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "始"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "子",
+    "reading": "こ",
+    "meaning": "child",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "子"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "字",
+    "reading": "じ",
+    "meaning": "character; letter",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "字"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "存",
+    "reading": "そん",
+    "meaning": "exist; remain",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "存"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "学",
+    "reading": "がく",
+    "meaning": "study; learning",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "学"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "安",
+    "reading": "やすい",
+    "meaning": "cheap; safe",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "安"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "定",
+    "reading": "てい",
+    "meaning": "fixed; decide",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "定"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "実",
+    "reading": "じつ",
+    "meaning": "truth; real",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "実"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "家",
+    "reading": "いえ",
+    "meaning": "house; family",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "家"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "局",
+    "reading": "きょく",
+    "meaning": "bureau;局",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "局"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "居",
+    "reading": "いる",
+    "meaning": "be (exist); reside",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "居"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "常",
+    "reading": "つね",
+    "meaning": "usual; normal",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "常"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "幾",
+    "reading": "—",
+    "meaning": "—",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "幾"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "度",
+    "reading": "ど",
+    "meaning": "degree; time",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "度"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "張",
+    "reading": "はる",
+    "meaning": "stretch; stick",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "張"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "強",
+    "reading": "つよい",
+    "meaning": "strong",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "強"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "当",
+    "reading": "あたる",
+    "meaning": "hit; appropriate",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "当"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "得",
+    "reading": "とく",
+    "meaning": "gain; obtain",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "得"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "微",
+    "reading": "び",
+    "meaning": "slight; 微",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "微"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "必",
+    "reading": "ひつ",
+    "meaning": "certain; 必",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "必"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "忘",
+    "reading": "わすれる",
+    "meaning": "forget",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "忘"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "応",
+    "reading": "おう",
+    "meaning": "respond",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "応"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "念",
+    "reading": "ねん",
+    "meaning": "thought;念",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "念"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "性",
+    "reading": "せい",
+    "meaning": "nature; sex",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "性"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "恐",
+    "reading": "きょう",
+    "meaning": "fear",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "恐"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "息",
+    "reading": "いき",
+    "meaning": "breath",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "息"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "情",
+    "reading": "じょう",
+    "meaning": "feeling; emotion",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "情"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "想",
+    "reading": "そう",
+    "meaning": "thought; imagine",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "想"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "意",
+    "reading": "い",
+    "meaning": "meaning; intention",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "意"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "愛",
+    "reading": "あい",
+    "meaning": "love",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "愛"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "感",
+    "reading": "かん",
+    "meaning": "feeling; sense",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "感"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "態",
+    "reading": "たい",
+    "meaning": "condition;態",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "態"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "慌",
+    "reading": "あわてる",
+    "meaning": "panic; hurry",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "慌"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "慣",
+    "reading": "なれる",
+    "meaning": "get used to",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "慣"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "憶",
+    "reading": "おく",
+    "meaning": "recollection; memory",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "憶"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "手",
+    "reading": "て",
+    "meaning": "hand",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "手"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "打",
+    "reading": "うつ",
+    "meaning": "hit; strike",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "打"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "抑",
+    "reading": "おさえる",
+    "meaning": "suppress; hold down",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "抑"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "抜",
+    "reading": "ぬく",
+    "meaning": "pull out",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "抜"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "抱",
+    "reading": "だく",
+    "meaning": "embrace; hold",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "抱"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "持",
+    "reading": "もつ",
+    "meaning": "hold; have",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "持"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "振",
+    "reading": "ふる",
+    "meaning": "shake; wave",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "振"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "探",
+    "reading": "さがす",
+    "meaning": "search",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "探"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "掴",
+    "reading": "つかむ",
+    "meaning": "grasp",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "掴"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "撃",
+    "reading": "げき",
+    "meaning": "strike; attack",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "撃"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "撫",
+    "reading": "なでる",
+    "meaning": "stroke; pet",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "撫"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "攻",
+    "reading": "せめる",
+    "meaning": "attack",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "攻"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "敢",
+    "reading": "かん",
+    "meaning": "dare; bold",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "敢"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "文",
+    "reading": "ぶん",
+    "meaning": "sentence; writing",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "文"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "料",
+    "reading": "りょう",
+    "meaning": "fee; materials",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "料"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "断",
+    "reading": "ことわる",
+    "meaning": "refuse",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "断"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "方",
+    "reading": "ほう",
+    "meaning": "direction; method",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "方"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "族",
+    "reading": "ぞく",
+    "meaning": "tribe; family",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "族"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "既",
+    "reading": "き",
+    "meaning": "already",
+    "type": "adverb-base",
+    "category": "single-kanji",
+    "kanji": [
+      "既"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "明",
+    "reading": "あかるい",
+    "meaning": "bright; clear",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "明"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "時",
+    "reading": "とき",
+    "meaning": "time",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "時"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "普",
+    "reading": "ふ",
+    "meaning": "general; universal",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "普"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "最",
+    "reading": "さい",
+    "meaning": "most",
+    "type": "adverb-base",
+    "category": "single-kanji",
+    "kanji": [
+      "最"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "望",
+    "reading": "のぞむ",
+    "meaning": "hope; desire",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "望"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "未",
+    "reading": "み",
+    "meaning": "not yet",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "未"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "束",
+    "reading": "たば",
+    "meaning": "bundle; bind",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "束"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "来",
+    "reading": "くる",
+    "meaning": "come",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "来"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "果",
+    "reading": "か",
+    "meaning": "result; fruit",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "果"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "校",
+    "reading": "こう",
+    "meaning": "school;校",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "校"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "格",
+    "reading": "かく",
+    "meaning": "status; pattern",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "格"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "業",
+    "reading": "ぎょう",
+    "meaning": "work; business",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "業"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "極",
+    "reading": "きょく",
+    "meaning": "extreme; pole",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "極"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "様",
+    "reading": "さま",
+    "meaning": "appearance; style",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "様"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "止",
+    "reading": "—",
+    "meaning": "—",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "止"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "歩",
+    "reading": "あるく",
+    "meaning": "walk",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "歩"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "死",
+    "reading": "し",
+    "meaning": "death; die",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "死"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "残",
+    "reading": "のこる",
+    "meaning": "remain",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "残"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "母",
+    "reading": "はは",
+    "meaning": "mother",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "母"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "比",
+    "reading": "ひ",
+    "meaning": "compare",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "比"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "気",
+    "reading": "き",
+    "meaning": "spirit; mood",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "気"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "求",
+    "reading": "もとめる",
+    "meaning": "seek; request",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "求"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "決",
+    "reading": "きめる",
+    "meaning": "decide",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "決"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "況",
+    "reading": "きょう",
+    "meaning": "condition; state",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "況"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "活",
+    "reading": "かつ",
+    "meaning": "active; live",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "活"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "流",
+    "reading": "ながれる",
+    "meaning": "flow",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "流"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "浮",
+    "reading": "うかぶ",
+    "meaning": "float",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "浮"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "深",
+    "reading": "ふかい",
+    "meaning": "deep",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "深"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "渡",
+    "reading": "わたる",
+    "meaning": "cross; hand over",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "渡"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "溜",
+    "reading": "たまる",
+    "meaning": "accumulate",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "溜"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "無",
+    "reading": "む",
+    "meaning": "nothing; without",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "無"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "然",
+    "reading": "ぜん",
+    "meaning": "so; like that",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "然"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "物",
+    "reading": "もの",
+    "meaning": "thing",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "物"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "特",
+    "reading": "とく",
+    "meaning": "special",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "特"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "状",
+    "reading": "じょう",
+    "meaning": "condition; form",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "状"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "珍",
+    "reading": "めずらしい",
+    "meaning": "rare",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "珍"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "現",
+    "reading": "げん",
+    "meaning": "appear; present",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "現"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "理",
+    "reading": "り",
+    "meaning": "reason; logic",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "理"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "甘",
+    "reading": "あまい",
+    "meaning": "sweet",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "甘"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "生",
+    "reading": "せい",
+    "meaning": "life; raw",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "生"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "疑",
+    "reading": "うたがう",
+    "meaning": "doubt",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "疑"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "疲",
+    "reading": "つかれる",
+    "meaning": "tired",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "疲"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "痛",
+    "reading": "いたい",
+    "meaning": "painful",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "痛"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "的",
+    "reading": "てき",
+    "meaning": "-like; target",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "的"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "目",
+    "reading": "め",
+    "meaning": "eye",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "目"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "直",
+    "reading": "なおる",
+    "meaning": "fix; straight",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "直"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "相",
+    "reading": "そう",
+    "meaning": "mutual; minister",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "相"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "眠",
+    "reading": "ねむる",
+    "meaning": "sleep",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "眠"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "眺",
+    "reading": "ながめる",
+    "meaning": "gaze",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "眺"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "着",
+    "reading": "きる",
+    "meaning": "wear; arrive",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "着"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "瞬",
+    "reading": "しゅん",
+    "meaning": "instant",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "瞬"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "知",
+    "reading": "しる",
+    "meaning": "know",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "知"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "研",
+    "reading": "けん",
+    "meaning": "polish; study",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "研"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "確",
+    "reading": "かく",
+    "meaning": "certain",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "確"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "示",
+    "reading": "しめす",
+    "meaning": "show",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "示"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "移",
+    "reading": "うつる",
+    "meaning": "move; shift",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "移"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "程",
+    "reading": "ほど",
+    "meaning": "extent; 정도",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "程"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "積",
+    "reading": "せき",
+    "meaning": "pile up;積",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "積"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "究",
+    "reading": "きゅう",
+    "meaning": "research; investigate",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "究"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "立",
+    "reading": "たつ",
+    "meaning": "stand",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "立"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "笑",
+    "reading": "わらう",
+    "meaning": "laugh; smile",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "笑"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "第",
+    "reading": "だい",
+    "meaning": "ordinal marker",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "第"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "簡",
+    "reading": "かん",
+    "meaning": "simple; brevity",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "簡"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "約",
+    "reading": "やく",
+    "meaning": "promise; contract",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "約"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "納",
+    "reading": "おさめる",
+    "meaning": "pay; store",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "納"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "終",
+    "reading": "おわる",
+    "meaning": "end",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "終"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "経",
+    "reading": "へる",
+    "meaning": "pass; elapse",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "経"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "結",
+    "reading": "むすぶ",
+    "meaning": "tie; connect",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "結"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "緊",
+    "reading": "きん",
+    "meaning": "tight; tense",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "緊"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "繋",
+    "reading": "つなぐ",
+    "meaning": "connect",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "繋"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "繰",
+    "reading": "くる",
+    "meaning": "repeat (as in くり返す)",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "繰"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "置",
+    "reading": "おく",
+    "meaning": "put; place",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "置"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "美",
+    "reading": "うつくしい",
+    "meaning": "beautiful",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "美"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "考",
+    "reading": "かんがえる",
+    "meaning": "think",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "考"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "能",
+    "reading": "のう",
+    "meaning": "ability",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "能"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "自",
+    "reading": "じ",
+    "meaning": "self",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "自"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "臭",
+    "reading": "くさい",
+    "meaning": "smelly",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "臭"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "致",
+    "reading": "いたす",
+    "meaning": "do (humble)",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "致"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "興",
+    "reading": "きょう",
+    "meaning": "interest; excite",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "興"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "般",
+    "reading": "はん",
+    "meaning": "general; kind",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "般"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "良",
+    "reading": "よい",
+    "meaning": "good",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "良"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "若",
+    "reading": "わかい",
+    "meaning": "young",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "若"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "行",
+    "reading": "いく",
+    "meaning": "go",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "行"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "襲",
+    "reading": "おそう",
+    "meaning": "attack",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "襲"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "要",
+    "reading": "よう",
+    "meaning": "need; important",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "要"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "見",
+    "reading": "みる",
+    "meaning": "see",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "見"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "解",
+    "reading": "とく",
+    "meaning": "solve; untie",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "解"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "記",
+    "reading": "き",
+    "meaning": "record; write down",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "記"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "許",
+    "reading": "ゆるす",
+    "meaning": "permit; forgive",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "許"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "話",
+    "reading": "はなす",
+    "meaning": "talk",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "話"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "認",
+    "reading": "みとめる",
+    "meaning": "recognize",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "認"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "語",
+    "reading": "かたる",
+    "meaning": "tell; language",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "語"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "説",
+    "reading": "とく",
+    "meaning": "explain; persuade",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "説"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "読",
+    "reading": "よむ",
+    "meaning": "read",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "読"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "諦",
+    "reading": "あきらめる",
+    "meaning": "give up",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "諦"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "識",
+    "reading": "しき",
+    "meaning": "knowledge; recognize",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "識"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "責",
+    "reading": "せき",
+    "meaning": "responsibility; blame",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "責"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "貼",
+    "reading": "はる",
+    "meaning": "paste; stick",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "貼"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "起",
+    "reading": "おきる",
+    "meaning": "rise; happen",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "起"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "足",
+    "reading": "あし",
+    "meaning": "foot; enough",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "足"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "距",
+    "reading": "きょ",
+    "meaning": "distance",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "距"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "身",
+    "reading": "み",
+    "meaning": "body; oneself",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "身"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "軽",
+    "reading": "かるい",
+    "meaning": "light",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "軽"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "載",
+    "reading": "のせる",
+    "meaning": "place on; publish",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "載"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "返",
+    "reading": "かえす",
+    "meaning": "return",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "返"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "追",
+    "reading": "おう",
+    "meaning": "chase",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "追"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "通",
+    "reading": "とおる",
+    "meaning": "pass; go through",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "通"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "速",
+    "reading": "はやい",
+    "meaning": "fast",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "速"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "連",
+    "reading": "つれる",
+    "meaning": "take along",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "連"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "進",
+    "reading": "すすむ",
+    "meaning": "advance",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "進"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "遅",
+    "reading": "おそい",
+    "meaning": "slow; late",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "遅"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "運",
+    "reading": "はこぶ",
+    "meaning": "carry; 운",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "運"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "過",
+    "reading": "すぎる",
+    "meaning": "pass; exceed",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "過"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "達",
+    "reading": "たつ",
+    "meaning": "attain;達",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "達"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "遭",
+    "reading": "あう",
+    "meaning": "encounter",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "遭"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "避",
+    "reading": "さける",
+    "meaning": "avoid",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "避"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "部",
+    "reading": "ぶ",
+    "meaning": "section; department",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "部"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "重",
+    "reading": "おもい",
+    "meaning": "heavy; important",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "重"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "開",
+    "reading": "ひらく",
+    "meaning": "open",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "開"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "間",
+    "reading": "あいだ",
+    "meaning": "interval; between",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "間"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "関",
+    "reading": "かん",
+    "meaning": "relation; barrier",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "関"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "降",
+    "reading": "おりる",
+    "meaning": "descend",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "降"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "限",
+    "reading": "かぎる",
+    "meaning": "limit",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "限"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "陰",
+    "reading": "かげ",
+    "meaning": "shadow",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "陰"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "際",
+    "reading": "きわ",
+    "meaning": "edge; verge",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "際"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "集",
+    "reading": "あつまる",
+    "meaning": "gather",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "集"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "離",
+    "reading": "はなれる",
+    "meaning": "separate",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "離"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "震",
+    "reading": "ふるえる",
+    "meaning": "tremble",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "震"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "静",
+    "reading": "しずか",
+    "meaning": "quiet",
+    "type": "adjective-base",
+    "category": "single-kanji",
+    "kanji": [
+      "静"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "非",
+    "reading": "ひ",
+    "meaning": "not; negative",
+    "type": "general",
+    "category": "single-kanji",
+    "kanji": [
+      "非"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "響",
+    "reading": "ひびく",
+    "meaning": "resound",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "響"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "頷",
+    "reading": "うなずく",
+    "meaning": "nod",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "頷"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "頼",
+    "reading": "たのむ",
+    "meaning": "request; rely on",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "頼"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "願",
+    "reading": "ねがう",
+    "meaning": "wish; request",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "願"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "食",
+    "reading": "たべる",
+    "meaning": "eat",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "食"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "験",
+    "reading": "けん",
+    "meaning": "test; experience",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "験"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "驚",
+    "reading": "おどろく",
+    "meaning": "be surprised",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "驚"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "黒",
+    "reading": "くろ",
+    "meaning": "black",
+    "type": "noun",
+    "category": "single-kanji",
+    "kanji": [
+      "黒"
+    ],
+    "derived_from_compound": true
+  },
+  {
+    "word": "黙",
+    "reading": "だまる",
+    "meaning": "be silent",
+    "type": "verb-root",
+    "category": "single-kanji",
+    "kanji": [
+      "黙"
+    ],
+    "derived_from_compound": true
   }
 ]
